@@ -12,7 +12,7 @@
   <img align="center" alt="Sami-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <!-- JS -->
   <img align="center" alt="Sami-Js" height="30" width="40" src="https://miro.medium.com/max/400/1*mrOXGyIa3BlPK80peLmEbA.png">
   
-  <img align="right" alt="Sami-pic" height="50" width="50" style="border-radius:50px;" src="https://play-lh.googleusercontent.com/2uJ3Xb8KJEDJGa3LZOvZ0SLEtUOYWgEJKnGR8eDKzLkWmrvKF3yPUml1KtdDymtLvWw=w240-h480-rw">
+  <img align="right" alt="Sami-pic" height="30" width="30" style="border-radius:50px;" src="https://play-lh.googleusercontent.com/2uJ3Xb8KJEDJGa3LZOvZ0SLEtUOYWgEJKnGR8eDKzLkWmrvKF3yPUml1KtdDymtLvWw=w240-h480-rw">
 </div>
   
   ##
