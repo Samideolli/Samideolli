@@ -1,4 +1,4 @@
-### Hi there, my name Deise Samara 👋
+### Hi there, my name is Deise Samara 👋
 
 <div align="center">
   <a href="https://github.com/Samideolli">
@@ -10,7 +10,7 @@
 <div style="display: inline_block"><br>  
   <img align="center" alt="Sami-Js" height="30" width="30" src="https://img.icons8.com/color/48/000000/c-programming.png"> <!-- C -->
   <img align="center" alt="Sami-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <!-- JS -->
-  <img align="center" alt="Sami-Js" height="30" width="40" src="https://img2.gratispng.com/20180320/fkq/kisspng-angle-text-symbol-brand-other-python-5ab0c09b32b4d1.7494578715215330832077.jpg"> <!-- PYTHON -->
+  <img align="center" alt="Sami-Js" height="20" width="20" src="https://img2.gratispng.com/20180320/fkq/kisspng-angle-text-symbol-brand-other-python-5ab0c09b32b4d1.7494578715215330832077.jpg"> <!-- PYTHON -->
   <img align="center" alt="Sami-Js" height="30" width="30" src="https://miro.medium.com/max/400/1*mrOXGyIa3BlPK80peLmEbA.png">
   
  
