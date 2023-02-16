@@ -10,7 +10,7 @@
 <div style="display: inline_block"><br>  
   <img align="center" alt="Sami-Js" height="30" width="30" src="https://img.icons8.com/color/48/000000/c-programming.png"> <!-- C -->
   <img align="center" alt="Sami-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <!-- JS -->
-  <img align="center" alt="Sami-Js" height="20" width="20" src=""> <!-- PYTHON -->
+  <img align="center" alt="Sami-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <!-- PYTHON -->
   <img align="center" alt="Sami-Js" height="30" width="30" src="https://miro.medium.com/max/400/1*mrOXGyIa3BlPK80peLmEbA.png">
   
  
