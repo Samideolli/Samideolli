@@ -6,6 +6,11 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samideolli&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br/>
+
+div align="center"
+img src="https://desblogada.files.wordpress.co..." width="0px" /
+/div
+
   
 <div style="display: inline_block"><br>  
   <img align="center" alt="Sami-Js" height="30" width="30" src="https://img.icons8.com/color/48/000000/c-programming.png"> <!-- C -->
