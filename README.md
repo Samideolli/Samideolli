@@ -7,10 +7,9 @@
 </div>
 <br/>
 
-div align="center"
-img src="https://desblogada.files.wordpress.co..." width="0px" /
-/div
-
+<div align="center"
+img src="https://user-images.githubusercontent.com/99887045/219980090-a4b09459-fd91-453d-bef7-764d4251cdf7.png" width="40px"
+</div>
   
 <div style="display: inline_block"><br>  
   <img align="center" alt="Sami-Js" height="30" width="30" src="https://img.icons8.com/color/48/000000/c-programming.png"> <!-- C -->
