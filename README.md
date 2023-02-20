@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-  <img src="http://pa1.narvii.com/6373/67870184521dae17776d6d634abfc9313d719667_00.gif" width="200px" >  
+  <img src="https://static.wikia.nocookie.net/powerlisting/images/7/76/Venellop%C3%A8_Glitching.gif/revision/latest/smart/width/400/height/225?cb=20181109012406" width="200px" >  
   
 </div>
   
