@@ -11,7 +11,7 @@
   <img src="https://static.wikia.nocookie.net/sugar-rush-kingdom/images/c/c8/Small-vambie.gif/revision/latest/smart/width/250/height/250?cb=20130429202207" width="200px" >  
   
 </div>
-  
+ ### Linguagens e tecnologias que uso no dia a dia:
 <div style="display: inline_block"><br>  
   <img align="center" alt="Sami-Js" height="30" width="30" src="https://img.icons8.com/color/48/000000/c-programming.png"> <!-- C -->
   <img align="center" alt="Sami-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <!-- JS -->
