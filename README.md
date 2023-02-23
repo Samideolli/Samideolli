@@ -1,4 +1,4 @@
-### Hi there, my name is Deise Samara 👋
+### Olá, tudo bem? Fique a vontade.  👋
 
 <div align="center">
   <a href="https://github.com/Samideolli">
