@@ -18,7 +18,7 @@
   <img align="center" alt="Sami-Js" height="30" width="30" src="https://miro.medium.com/max/400/1*mrOXGyIa3BlPK80peLmEbA.png">
   <!--REACT NATIVE-->
   <img align="center" alt="Sami-Js" height="30" width="30" src="https://icones.pro/wp-content/uploads/2021/05/icone-html-orange.png">
-  
+   <img align="center" alt="Sami-Js" height="30" width="30" src="https://gremmedia.hu/storage/temp/public/28c/8a9/08d/thumb_226_800_800_0_0_auto__800.png">
  
   
   ##
