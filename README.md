@@ -17,6 +17,7 @@
   <img align="center" alt="Sami-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <!-- PYTHON -->
   <img align="center" alt="Sami-Js" height="30" width="30" src="https://miro.medium.com/max/400/1*mrOXGyIa3BlPK80peLmEbA.png">
   <!--REACT NATIVE-->
+  <img align="center" alt="Sami-Js" height="30" width="30" src="https://icones.pro/wp-content/uploads/2021/05/icone-html-orange.png">
   
  
   
