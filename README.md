@@ -1,4 +1,4 @@
-### Olá, tudo bem? Fique a vontade.  👋
+### Olá 👋
 
 
 
