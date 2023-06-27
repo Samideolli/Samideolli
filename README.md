@@ -24,6 +24,8 @@
   ##
   
 <br/>
+
+
   
 <div> 
   <a href="https://www.linkedin.com/in/deise-samara-oliveira-9359a0193/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <!-- Linkedin -->
@@ -34,3 +36,18 @@
   ![Snake animation](https://github.com/Samideolli/Samideolli/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+### Tecnologias que estou estudando:
+<div style="display: inline_block">
+  <img align="center" alt="Sami-Js" height="30" width="30" src="https://br.vuejs.org/images/logo.png"> <!-- Vue -->
+  <img align="center" alt="Sami-Js" height="30" width="40" src="https://lh6.googleusercontent.com/mtL0h_6smR8btuB6EBj6kDMek8SnsuqnjRy542yVXN8aWhoJpb3ONv3Ff6UFzoLvP4drq_y81ZwNrdOyzkP29NdDgQyMv1962bi6gYnEeGe6onl53innUV36jS0rXfLw6APw6A_W=s0"> <!-- GO -->
+ 
+ 
+ 
+  
+  ##
+  
+<br/>
+
+</div>
+
