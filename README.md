@@ -2,7 +2,8 @@
 Atualmente sou professora de programação. Ensino adolescentes de 12 a 17 anos a programar jogos e aplicativos. <br/>
 Tenho conhecimento em JS, React Native, HTML, CSS, Python. <br/>
 No momento estou me dedicando e estudando Node.js, Vue.js, Golang. Gosto bastante de aprender Front-end e Back-end. <br/>
-Fora programação, gosto bastante de rock, moto, livros e assistir desenhos. Sou muito comunicativa e gosto bastante de fazer amizade. 
+Fora programação, gosto de rock, moto, livros e assistir desenhos e claro HP rsrrs. Sou muito comunicativa e gosto bastante de fazer amizade.<br/>
+
 
 <div align="center">
   <img src="https://static.wikia.nocookie.net/sugar-rush-kingdom/images/c/c8/Small-vambie.gif/revision/latest/smart/width/250/height/250?cb=20130429202207" width="200px" >  
