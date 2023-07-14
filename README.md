@@ -1,5 +1,5 @@
 ### Olá 👋
-Atualmente sou professora de programação. Ensino adolescentes de 12 a 17 anos a programar jogos e aplicativos.
+Atualmente sou professora de programação. Ensino adolescentes de 12 a 17 anos a programar jogos e aplicativos.\n
 Tenho conhecimento em JS, React Native, HTML, CSS, Python.
 No momento estou me dedicando e estudando Node.js, Vue.js, Golang. Gosto bastante de aprender Front-end e Back-end.
 Fora programação, gosto bastante de rock, moto, livros e assistir desenhos. Sou muito comunicativa e gosto bastante de fazer amizade. 
