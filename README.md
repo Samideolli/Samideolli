@@ -2,7 +2,8 @@
 Atualmente sou professora de programação. Ensino adolescentes de 12 a 17 anos a programar jogos e aplicativos. <br/>
 Tenho conhecimento em JS, React Native, HTML, CSS, Python. <br/>
 No momento estou me dedicando e estudando Node.js, Vue.js, Golang. Gosto bastante de aprender Front-end e Back-end. <br/>
-Fora programação, gosto de rock, moto, livros e assistir desenhos e claro HP rsrrs. Sou muito comunicativa e gosto bastante de fazer amizade.<br/>
+Fora programação, gosto de rock, moto, livros e assistir desenhos e claro HP rsrrs. <br/>
+Sou muito comunicativa e gosto bastante de fazer amizade.<br/>
 
 
 <div align="center">
@@ -42,7 +43,7 @@ Fora programação, gosto de rock, moto, livros e assistir desenhos e claro HP r
 <div style="display: inline_block">
   <img align="center" alt="Sami-Js" height="30" width="30" src="https://br.vuejs.org/images/logo.png"> <!-- Vue -->
   <img align="center" alt="Sami-Js" height="30" width="40" src="https://lh6.googleusercontent.com/mtL0h_6smR8btuB6EBj6kDMek8SnsuqnjRy542yVXN8aWhoJpb3ONv3Ff6UFzoLvP4drq_y81ZwNrdOyzkP29NdDgQyMv1962bi6gYnEeGe6onl53innUV36jS0rXfLw6APw6A_W=s0"> <!-- GO -->
- 
+   <img align="center" alt="Sami-Js" height="30" width="40" src="https://blog.geekhunter.com.br/wp-content/uploads/2021/02/1_mp91A9RzagntGGjBnwu4Yw.png"> <!--Node -->
  
  
   
