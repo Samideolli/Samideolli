@@ -6,10 +6,10 @@ Fora programação, gosto de rock, moto, livros, fotografia, assistir desenhos e
 Sou muito comunicativa e gosto bastante de fazer amizade.<br/>
 
 
-<div align="center">
+<!--<div align="center">
   <img src="https://static.wikia.nocookie.net/sugar-rush-kingdom/images/c/c8/Small-vambie.gif/revision/latest/smart/width/250/height/250?cb=20130429202207" width="200px" >  
   
-</div>
+</div>-->
   
   
 ### Linguagens e tecnologias que uso no dia a dia:
