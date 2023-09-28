@@ -43,7 +43,7 @@ Sou muito comunicativa e gosto bastante de fazer amizade.<br/>
 <div style="display: inline_block">
   <img align="center" alt="Sami-Js" height="30" width="30" src="https://br.vuejs.org/images/logo.png"> <!-- Vue -->
   <img align="center" alt="Sami-Js" height="30" width="40" src="https://lh6.googleusercontent.com/mtL0h_6smR8btuB6EBj6kDMek8SnsuqnjRy542yVXN8aWhoJpb3ONv3Ff6UFzoLvP4drq_y81ZwNrdOyzkP29NdDgQyMv1962bi6gYnEeGe6onl53innUV36jS0rXfLw6APw6A_W=s0"> <!-- GO -->
-   <img align="center" alt="Sami-Js" height="30" width="30" src="https://madeinweb.com.br/wp-content/uploads/2017/08/4-erros-mais-conhecidos-no-java-android.png"> <!-- Java -->
+   <img align="center" alt="Sami-Js" height="30" width="30" src="https://sites.nd.edu/patentlaw/files/2012/05/android.jpg"> <!-- Java -->
    <img align="center" alt="Sami-Js" height="30" width="40" src="https://blog.geekhunter.com.br/wp-content/uploads/2021/02/1_mp91A9RzagntGGjBnwu4Yw.png"> <!--Node -->
  
  
