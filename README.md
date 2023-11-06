@@ -4,6 +4,7 @@ Tenho conhecimento em JS, React Native, HTML, CSS, Python. <br/>
 No momento estou me dedicando e estudando Node.js, Vue.js, Golang, Java(Desenvolvimento de apps Android). Gosto bastante de aprender Front-end e Back-end. <br/>
 Fora programação, gosto de rock, moto, livros, fotografia, assistir desenhos e claro HP. (Posso passar horas falando sobre isso rsrrss) <br/>
 Sou muito comunicativa e gosto bastante de fazer amizade.<br/>
+Sooner Or Later - The Grass Roots (Coloque pra tocar e se divirta) 
 
 
 <!--<div align="center">
