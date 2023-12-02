@@ -1,7 +1,7 @@
 ### Olá 👋
 Atualmente sou professora de programação. Ensino adolescentes de 12 a 17 anos a programar jogos e aplicativos. <br/>
 Tenho conhecimento em JS, React Native, HTML, CSS, Python. <br/>
-No momento estou me dedicando e estudando Node.js, Vue.js, Golang, Java(Desenvolvimento de apps Android). Gosto bastante de aprender Front-end e Back-end. <br/>
+Gosto bastante de aprender Front-end e Back-end. <br/>
 Fora programação, gosto de rock, moto, livros, fotografia, assistir desenhos e claro HP. (Posso passar horas falando sobre isso rsrrss) <br/>
 Sou muito comunicativa e gosto bastante de fazer amizade.<br/>
 Sooner Or Later - The Grass Roots (Coloque pra tocar e se divirta) 
@@ -15,7 +15,7 @@ Sooner Or Later - The Grass Roots (Coloque pra tocar e se divirta)
   
 ### Linguagens e tecnologias que uso no dia a dia:
 <div style="display: inline_block">
-  <img align="center" alt="Sami-Js" height="30" width="30" src="https://img.icons8.com/color/48/000000/c-programming.png"> <!-- C -->
+
   <img align="center" alt="Sami-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <!-- JS -->
   <img align="center" alt="Sami-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <!-- PYTHON -->
   <img align="center" alt="Sami-Js" height="30" width="30" src="https://miro.medium.com/max/400/1*mrOXGyIa3BlPK80peLmEbA.png">
@@ -43,9 +43,10 @@ Sooner Or Later - The Grass Roots (Coloque pra tocar e se divirta)
 ### Tecnologias que estou estudando:
 <div style="display: inline_block">
   <img align="center" alt="Sami-Js" height="30" width="30" src="https://br.vuejs.org/images/logo.png"> <!-- Vue -->
-  <img align="center" alt="Sami-Js" height="30" width="40" src="https://lh6.googleusercontent.com/mtL0h_6smR8btuB6EBj6kDMek8SnsuqnjRy542yVXN8aWhoJpb3ONv3Ff6UFzoLvP4drq_y81ZwNrdOyzkP29NdDgQyMv1962bi6gYnEeGe6onl53innUV36jS0rXfLw6APw6A_W=s0"> <!-- GO -->
-   <img align="center" alt="Sami-Js" height="30" width="30" src="https://sites.nd.edu/patentlaw/files/2012/05/android.jpg"> <!-- Java -->
-   <img align="center" alt="Sami-Js" height="30" width="40" src="https://blog.geekhunter.com.br/wp-content/uploads/2021/02/1_mp91A9RzagntGGjBnwu4Yw.png"> <!--Node -->
+ <div style="display: inline_block">
+  <img align="center" alt="Sami-Js" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png"> <!-- Python -->
+ 
+
  
  
   
