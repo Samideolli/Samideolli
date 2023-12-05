@@ -26,7 +26,7 @@ Sooner Or Later - The Grass Roots (Coloque pra tocar e se divirta)
 [![Instagram](https://www.instagram.com/samara_d_oliveira/)
 
 
-<h3 align="left">GitHub Stats</h3>
+<h3 align="left">Me dedicando em: </h3>
 
 
 
@@ -34,9 +34,11 @@ Sooner Or Later - The Grass Roots (Coloque pra tocar e se divirta)
   <summary></summary> 
  
  
-  
-  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
+  - Python
+  - React Native
+  - JS
+
  
-  <div align="right">Made with 💜 by <a href="https://github.com/elidianaandrade">EA</a>.</div>
+  <div align="right"> 💜 <a href="#"></a>.</div>
 
 </details>
