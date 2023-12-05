@@ -6,7 +6,7 @@
     <span>Samara de Oliveira</span>
 </h1>
 
-<p align="justify">Olá 👋
+<p align="justify">Olá 👋, </br>
 Atualmente sou professora de programação. Ensino adolescentes de 12 a 17 anos a programar jogos e aplicativos. <br/>
 Tenho conhecimento em JS, React Native, HTML, CSS, Python. <br/>
 Gosto bastante de aprender Front-end e Back-end. <br/>
