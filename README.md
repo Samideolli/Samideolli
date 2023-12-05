@@ -2,7 +2,7 @@
 
 <h1>
     <a href="#">
-     <img align="center" alt="#" width="36px" src="https://img.freepik.com/vetores-premium/vector-de-mulher-de-cabelo-vermelho-em-fundo-branco_889056-45146.jpg"></a>
+     <img align="center" alt="#" width="36px" src="https://i.pinimg.com/736x/79/55/ec/7955ecdb6dff1cb4d94e7fba3a8dc47f.jpg"></a>
     <span>Samara de Oliveira</span>
 </h1>
 
