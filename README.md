@@ -1,8 +1,8 @@
-<img align="right" alt="https://img.freepik.com/fotos-premium/desenho-animado-estilo-kawaii-ilustracao-infantil-ilustracao-de-arte-fofa-papel-de-parede-desenhado-a-mao-em-quadrinhos_1041447-2297.jpg" height="380" src="https://img.freepik.com/fotos-premium/desenho-animado-estilo-kawaii-ilustracao-infantil-ilustracao-de-arte-fofa-papel-de-parede-desenhado-a-mao-em-quadrinhos_1041447-2297.jpg">
+<img align="right" alt="#" height="380" src="https://img.freepik.com/fotos-premium/desenho-animado-estilo-kawaii-ilustracao-infantil-ilustracao-de-arte-fofa-papel-de-parede-desenhado-a-mao-em-quadrinhos_1041447-2297.jpg">
 
 <h1>
     <a href="#">
-     <img align="center" alt="#" width="36px" src="#"></a>
+     <img align="center" alt="#" width="36px" src="https://pixel.cuboup.com/wp-content/uploads/edd/2022/05/Desenho-Cafe-5.jpg"></a>
     <span>Samara de Oliveira</span>
 </h1>
 
