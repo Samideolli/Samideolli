@@ -1,4 +1,4 @@
-<img align="right" alt="#" height="380" src="https://i.gifer.com/PeCq.gif">
+<img align="right" alt="#" height="380" src="#">
 
 <h1>
     <a href="#">
