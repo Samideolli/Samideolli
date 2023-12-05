@@ -2,7 +2,7 @@
 
 <h1>
     <a href="#">
-     <img align="center" alt="#" width="36px" src="https://pixel.cuboup.com/wp-content/uploads/edd/2022/05/Desenho-Cafe-5.jpg"></a>
+     <img align="center" alt="#" width="36px" src="https://img.freepik.com/vetores-premium/vector-de-mulher-de-cabelo-vermelho-em-fundo-branco_889056-45146.jpg"></a>
     <span>Samara de Oliveira</span>
 </h1>
 
