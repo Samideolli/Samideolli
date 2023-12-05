@@ -21,7 +21,7 @@ Sooner Or Later - The Grass Roots (Coloque pra tocar e se divirta)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
 -->
 <h3 align="left">Connect with me</h3>
-
+[![linkedIn](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=linkeIn&logoColor=FF00F6)](https://elidianaandrade.github.io/)
 [![LinkedIn](https://www.linkedin.com/in/deise-samara-d-9359a0193/)
 [![Instagram](https://www.instagram.com/samara_d_oliveira/)
 
