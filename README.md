@@ -32,7 +32,7 @@ Sooner Or Later - The Grass Roots (Coloque pra tocar e se divirta)
 
 
 
-<h3 align="left">Me dedicando em: </h3>
+<h3 align="left">Me dedicando cada vez mais em: </h3>
 
 
 
@@ -45,6 +45,6 @@ Sooner Or Later - The Grass Roots (Coloque pra tocar e se divirta)
   - JS
 
  
-  <div align="right"> 💜 <a href="#"></a>.</div>
+  <div align="right"> 💜 <a href="#"></a></div>
 
 </details>
