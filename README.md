@@ -1,4 +1,4 @@
-<img align="right" alt="#" height="380" src="https://img.freepik.com/fotos-premium/desenho-animado-estilo-kawaii-ilustracao-infantil-ilustracao-de-arte-fofa-papel-de-parede-desenhado-a-mao-em-quadrinhos_1041447-2297.jpg">
+<img align="right" alt="#" height="380" src="https://pixel.cuboup.com/wp-content/uploads/edd/2022/06/Mesa-de-Computador-Trabalho-Escritorio.jpg">
 
 <h1>
     <a href="#">
