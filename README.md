@@ -1,58 +1,37 @@
-### Olá 👋
-Atualmente sou professora de programação. Ensino adolescentes de 12 a 17 anos a programar jogos e aplicativos. <br/>
-Tenho conhecimento em JS, React Native, HTML, CSS, Python. <br/>
-Gosto bastante de aprender Front-end e Back-end. <br/>
-Fora programação, gosto de rock, moto, livros, fotografia, assistir desenhos e claro HP. (Posso passar horas falando sobre isso rsrrss) <br/>
-Sou muito comunicativa e gosto bastante de fazer amizade.<br/>
-Sooner Or Later - The Grass Roots (Coloque pra tocar e se divirta) 
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://img.freepik.com/fotos-premium/desenho-animado-estilo-kawaii-ilustracao-infantil-ilustracao-de-arte-fofa-papel-de-parede-desenhado-a-mao-em-quadrinhos_1041447-2297.jpg">
 
+<h1>
+    <a href="#">
+     <img align="center" alt="#" width="36px" src="#"></a>
+    <span>Samara de Oliveira</span>
+</h1>
 
-<!--<div align="center">
-  <img src="https://static.wikia.nocookie.net/sugar-rush-kingdom/images/c/c8/Small-vambie.gif/revision/latest/smart/width/250/height/250?cb=20130429202207" width="200px" >  
-  
-</div>-->
-  
-  
-### Linguagens e tecnologias que uso no dia a dia:
-<div style="display: inline_block">
+<p align="justify">Description 
+<br>
+  <a href="#">(@jjdfjb)</a>.</p>
+<!--
+[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
+[![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
+-->
+<h3 align="left">Connect with me</h3>
 
-  <img align="center" alt="Sami-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <!-- JS -->
-  <img align="center" alt="Sami-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <!-- PYTHON -->
-  <img align="center" alt="Sami-Js" height="30" width="30" src="https://miro.medium.com/max/400/1*mrOXGyIa3BlPK80peLmEbA.png">
-  <!--REACT NATIVE-->
-  <img align="center" alt="Sami-Js" height="30" width="30" src="https://icones.pro/wp-content/uploads/2021/05/icone-html-orange.png">
-   <img align="center" alt="Sami-Js" height="30" width="30" src="https://gremmedia.hu/storage/temp/public/28c/8a9/08d/thumb_226_800_800_0_0_auto__800.png">
+[![LinkedIn]()
+[![Instagram]()
+[![YouTube]()
+
+<h3 align="left">GitHub Stats</h3>
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elidianaandrade&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+<!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elidianaandrade&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/elidianaandrade/github-readme-stats)-->
+<br>
+
+<details align="left">
+  <summary></summary> 
  
-  
-  ##
-  
-<br/>
-
-
-  
-<div> 
-  <a href="https://www.linkedin.com/in/deise-samara-d-9359a0193/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <!-- <a href="mailto:samideolli@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=+55016994055816&text=" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>-->
-  
-  
-
+  - Badges by <a href="https://shields.io/">shields.io</a><br>
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
  
-</div>
+  <div align="right">Made with 💜 by <a href="https://github.com/elidianaandrade">EA</a>.</div>
 
-### Tecnologias que estou estudando:
-<div style="display: inline_block">
-  <img align="center" alt="Sami-Js" height="30" width="30" src="https://br.vuejs.org/images/logo.png"> <!-- Vue -->
- <div style="display: inline_block">
-  <img align="center" alt="Sami-Js" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png"> <!-- Python -->
- 
-
- 
- 
-  
-  ##
-  
-<br/>
-
-</div>
-
+</details>
