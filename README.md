@@ -27,7 +27,7 @@ Sooner Or Later - The Grass Roots (Coloque pra tocar e se divirta)
 </a>
 
 <a href="https://www.instagram.com/samara_d_oliveira/" target="_blank">
-    <img src="https://img.freepik.com/vetores-premium/logotipo-de-midia-social-gradiente-roxo_197792-1883.jpg" alt="Instagram" width="20" height="20">
+    <img src="https://img.freepik.com/vetores-premium/logotipo-redondo-do-instagram-isolado-em-fundo-branco_469489-898.jpg" alt="Instagram" width="20" height="20">
 </a>
 
 
