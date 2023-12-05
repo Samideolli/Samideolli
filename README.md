@@ -2,7 +2,7 @@
 
 <h1>
     <a href="#">
-     <img align="center" alt="#" width="40px" src="https://i.pinimg.com/736x/79/55/ec/7955ecdb6dff1cb4d94e7fba3a8dc47f.jpg"></a>
+     <img align="center" alt="#" width="40px" src="https://img.freepik.com/fotos-premium/um-desenho-de-uma-mulher-com-cabelos-ruivos-e-fundo-azul-com-as-palavras-ela-esta-sorrindo_910054-35036.jpg"></a>
     <span>Samara de Oliveira</span>
 </h1>
 
