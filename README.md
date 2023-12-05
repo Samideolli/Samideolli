@@ -26,7 +26,7 @@ Sooner Or Later - The Grass Roots (Coloque pra tocar e se divirta)
     <img src="https://img.freepik.com/vetores-premium/logotipo-quadrado-do-linkedin-isolado-no-fundo-branco_469489-892.jpg" alt="LinkedIn" width="20" height="20">
 </a>
 
-[![LinkedIn](https://img.freepik.com/vetores-premium/logotipo-quadrado-do-linkedin-isolado-no-fundo-branco_469489-892.jpg)](https://www.linkedin.com/in/deise-samara-d-9359a0193/)
+
 [![Instagram](https://www.instagram.com/samara_d_oliveira/)
 
 
