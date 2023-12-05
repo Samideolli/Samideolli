@@ -1,4 +1,4 @@
-<img align="right" alt="#" height="380" src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2019/10/20234042/capa-dart.png">
+<img align="right" alt="#" height="380" src="https://i.pinimg.com/736x/79/55/ec/7955ecdb6dff1cb4d94e7fba3a8dc47f.jpg">
 
 <h1>
     <a href="#">
