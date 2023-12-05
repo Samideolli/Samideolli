@@ -1,4 +1,4 @@
-<img align="right" alt="#" height="380" src="https://pixel.cuboup.com/wp-content/uploads/edd/2022/06/Mesa-de-Computador-Trabalho-Escritorio.jpg">
+<img align="right" alt="#" height="380" src="https://i.gifer.com/PeCq.gif">
 
 <h1>
     <a href="#">
