@@ -15,7 +15,7 @@ Sou muito comunicativa e gosto bastante de fazer amizade.<br/>
 Sooner Or Later - The Grass Roots (Coloque pra tocar e se divirta) 
 
 <br>
-  <a href="#">(@jjdfjb)</a>.</p>
+  <a href="#"></a>.</p>
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
