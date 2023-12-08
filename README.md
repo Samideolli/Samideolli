@@ -20,16 +20,19 @@ Sooner Or Later - The Grass Roots (Coloque pra tocar e se divirta)
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
 -->
+<!--
 <h3 align="left">Mais sobre mim: </h3>
-
+-->
+<!--
 <a href="https://www.linkedin.com/in/deise-samara-d-9359a0193/" target="_blank">
     <img src="https://img.freepik.com/vetores-premium/logotipo-quadrado-do-linkedin-isolado-no-fundo-branco_469489-892.jpg" alt="LinkedIn" width="20" height="20">
 </a>
-
+-->
+<!--
 <a href="https://www.instagram.com/samara_d_oliveira/" target="_blank">
     <img src="https://img.freepik.com/vetores-premium/logotipo-redondo-do-instagram-isolado-em-fundo-branco_469489-898.jpg" alt="Instagram" width="20" height="20">
 </a>
-
+-->
 
 
 <h3 align="left">Me dedicando cada vez mais em: </h3>
