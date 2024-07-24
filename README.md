@@ -5,7 +5,7 @@
 </h1>
 
 <p align="justify">Olá 👋, </br>
-atualmente sou professora de português para etrangeiros, resolvi aceitar a oportunidade para desenvolver mais habilidades, mas meu foco é em TI, já fui professora de programação e ensinei adolescentes de 12 a 17 anos a programar jogos e aplicativos. <br/>
+atualmente sou professora de português para estrangeiros, resolvi aceitar a oportunidade para desenvolver mais habilidades, mas meu foco é em TI, já fui professora de programação e ensinei adolescentes de 12 a 17 anos a programar jogos e aplicativos. <br/>
 Tenho conhecimento em JS, React Native, HTML, CSS, Python. <br/>
 Gosto bastante de aprender Front-end e Back-end. <br/>
 Fora programação, gosto de rock, moto, livros, fotografia, assistir desenhos e claro HP. (Posso passar horas falando sobre isso rsrrss) <br/>
