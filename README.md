@@ -5,33 +5,16 @@
 <h1>
     <span>Samara de Oliveira</span>
 </h1>
-<p align="justify">Olá 👋, </br>
-atualmente sou professora de português para estrangeiros, resolvi aceitar a oportunidade para desenvolver mais habilidades, mas meu foco é em TI, já fui professora de programação e ensinei adolescentes de 12 a 17 anos a programar jogos e aplicativos. <br/>
-Tenho conhecimento em JS, React Native, HTML, CSS, Python. <br/>
-Gosto bastante de aprender Front-end e Back-end. <br/>
-Fora programação, gosto de rock, moto, livros, fotografia, assistir desenhos e claro HP. (Posso passar horas falando sobre isso rsrrss) <br/>
-Sou muito comunicativa e gosto bastante de fazer amizade.<br/>
-Sooner Or Later - The Grass Roots (Coloque pra tocar e se divirta) 
+<p align="justify">  </br>
+ <img align="center" alt="Italo-Delhp" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"> 
+  <img align="center" alt="Italo-Delhp" height="30" width="30" src="https://i.ibb.co/7t7ckfm/CITYPNG-COM-JS-Javascript-Round-Logo-Icon-PNG-7000x7000.png">
+  <img align="center" alt="Italo-Delhp" height="30" width="30" src="https://i.ibb.co/6mtX8Nm/pngwing-com.png">
+  <img align="center" alt="Italo-Delhp" height="30" width="30" src="https://1.bp.blogspot.com/-v9hlfIXIXkc/XhDO6IvdC_I/AAAAAAAANfI/duPrIrwP_r8F-_DnpnQ-IaFDSvC_SBZcACLcBGAsYHQ/s200/1417589451_html-256.png">
+  <img align="center" alt="Italo-Delhp" height="30" width="30" src="https://www.webhozz.com/blog/wp-content/uploads/2017/09/gambar-CSS-300x257.jpg">
 <br>
   <a href="#"></a></p>
 <h2>Conecte-se comigo</h2>
 www.linkedin.com/in/deisesamaradeoliveira
   
-<!--
-[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
-[![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
--->
-<!--
-<h3 align="left">Mais sobre mim: </h3>
--->
-<!--
-<a href="https://www.linkedin.com/in/deise-samara-d-9359a0193/" target="_blank">
-    <img src="https://img.freepik.com/vetores-premium/logotipo-quadrado-do-linkedin-isolado-no-fundo-branco_469489-892.jpg" alt="LinkedIn" width="20" height="20">
-</a>
--->
-<!--
-<a href="https://www.instagram.com/samara_d_oliveira/" target="_blank">
-    <img src="https://img.freepik.com/vetores-premium/logotipo-redondo-do-instagram-isolado-em-fundo-branco_469489-898.jpg" alt="Instagram" width="20" height="20">
-</a>
--->
+
 
