@@ -1,5 +1,7 @@
-<img align="right" alt="#" height="380" src="https://gifdb.com/images/high/animated-steaming-coffee-459y2wllveo0hcub.gif">
 
+<img align="right" alt="#" height="200" src="https://gifdb.com/images/high/animated-steaming-coffee-459y2wllveo0hcub.gif">
+
+</br></br></br></br></br>
 <h1>
     <span>Samara de Oliveira</span>
 </h1>
@@ -13,8 +15,7 @@ Sooner Or Later - The Grass Roots (Coloque pra tocar e se divirta)
 <br>
   <a href="#"></a></p>
 <h2>Conecte-se comigo</h2>
-<a href="https://www.instagram.com/samara_d_oliveira/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/deise-samara-d-9359a0193/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+www.linkedin.com/in/deisesamaradeoliveira
   
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
@@ -33,14 +34,4 @@ Sooner Or Later - The Grass Roots (Coloque pra tocar e se divirta)
     <img src="https://img.freepik.com/vetores-premium/logotipo-redondo-do-instagram-isolado-em-fundo-branco_469489-898.jpg" alt="Instagram" width="20" height="20">
 </a>
 -->
-<h3 align="left">Me dedicando cada vez mais em: </h3>
-<details align="left">
-  <summary></summary> 
- 
- 
-  - Python
-  - React Native
-  - JS
- 
-  <div align="right"> 💜 <a href="#"></a></div>
-</details>
+
